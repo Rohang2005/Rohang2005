@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&vCenter=true&width=490&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Web+Apps;Always+Learning+New+Tech)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://low-effort-readme.vercel.app/api?user=Rohang2005&theme=synthwave" alt="Glitch Style Profile Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohang2005&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" />
