@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p1>
-I'm an Artificial Intelligence and Machine Learning Enthusiastas well as a Developer, passionate about building intelligent systems with Python, Deep Learning, and LLMs. I'm actively involved in my university's technical community as President of the NVIDIA-Partnered F.A.S.T. Club.<br><br>
+I'm an Artificial Intelligence and Machine Learning Enthusiast as well as a Developer, passionate about building intelligent systems with Python, Deep Learning, and LLMs. I'm actively involved in my university's technical community as President of the NVIDIA-Partnered F.A.S.T. Club.<br><br>
 My project experience is highly specialized, spanning from architecting a multi-agent framework for agronomic intelligence using Gemini to developing a hybrid CNN-BiLSTM model for speech-based distress detection.
 </p1>
 
