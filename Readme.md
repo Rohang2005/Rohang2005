@@ -2,7 +2,7 @@
 
 <!-- ANIMATED NAME — unchanged -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&pause=500&color=00008B&vCenter=true&width=500&lines=Rohan+Ganesh;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&pause=500&color=C724B1&vCenter=true&width=500&lines=Rohan+Ganesh;" alt="Typing SVG" />
 </a>
 
 <br/>
