@@ -19,7 +19,7 @@
 
 ---
 
-> *I build systems that think. Obsessed with the bleeding edge of AI — agents that reason, models that see, pipelines that act. Research-driven, builder-minded, always shipping.*
+> *I build systems that think. Obsessed with the bleeding edge of AI, agents that reason, models that see, pipelines that act. Research-driven, builder-minded, always shipping.*
 
 ---
 
