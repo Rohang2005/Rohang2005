@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED NAME — unchanged -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&pause=500&color=00008B&vCenter=true&width=500&lines=Rohan+Ganesh;" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:bc8cff&height=200&section=header&text=Rohan%20Ganesh&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -14,7 +11,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:bc8cff&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Building+Systems+That+Think;President,+NVIDIA+F.A.S.T;Obsessed+with+Agentic+Workflows" alt="Typing SVG" />
+</a>
 
 </div>
 
